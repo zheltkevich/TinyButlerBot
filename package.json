@@ -1,0 +1,23 @@
+{
+  "name": "tiny-butler-bot",
+  "version": "0.0.1",
+  "description": "My personal helper",
+  "scripts": {
+    "start": "node bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tiny-butler-bot"
+  },
+  "keywords": [
+    "helper",
+    "butler",
+    "servant",
+    "bot"
+  ],
+  "author": "Aleksandr Zheltkevich",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^4.7.0"
+  }
+}
